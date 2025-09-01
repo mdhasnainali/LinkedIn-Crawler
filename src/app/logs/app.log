@@ -1,0 +1,22 @@
+{"asctime": "2025-08-20 12:11:35,791", "levelname": "INFO", "name": "app", "message": "Test Logging"}
+{"asctime": "2025-08-20 12:11:35,812", "levelname": "WARNING", "name": "app", "message": "Validation error at http://localhost:8000/api/v1/todo/: 404: No Found: API"}
+{"asctime": "2025-08-20 12:11:54,230", "levelname": "INFO", "name": "app", "message": "Test Logging"}
+{"asctime": "2025-08-20 12:11:54,231", "levelname": "WARNING", "name": "app", "message": "Validation error at http://localhost:8000/api/v1/todo/: 404: No Found: API"}
+{"asctime": "2025-08-20 12:12:05,745", "levelname": "INFO", "name": "app", "message": "Test Logging"}
+{"asctime": "2025-08-20 12:12:05,746", "levelname": "WARNING", "name": "app", "message": "Validation error at http://localhost:8000/api/v1/todo/: 404: No Found: API"}
+{"asctime": "2025-08-20 12:13:54,761", "levelname": "INFO", "name": "app", "message": "Test Logging"}
+{"asctime": "2025-08-20 12:13:54,762", "levelname": "WARNING", "name": "app", "message": "Validation error at http://localhost:8000/api/v1/todo/: 404: No Found: API"}
+{"asctime": "2025-08-20 12:16:09,729", "levelname": "INFO", "name": "app", "message": "Test Logging"}
+{"asctime": "2025-08-20 12:16:09,732", "levelname": "WARNING", "name": "app", "message": "Validation error at http://localhost:8000/api/v1/todo/: 404: No Found: API"}
+{"asctime": "2025-08-20 12:16:13,449", "levelname": "INFO", "name": "app", "message": "Test Logging"}
+{"asctime": "2025-08-20 12:16:13,449", "levelname": "WARNING", "name": "app", "message": "Validation error at http://localhost:8000/api/v1/todo/: 404: No Found: API"}
+{"asctime": "2025-08-20 12:16:48,298", "levelname": "INFO", "name": "app", "message": "Test Logging"}
+{"asctime": "2025-08-20 12:16:48,299", "levelname": "WARNING", "name": "app", "message": "Validation error at http://localhost:8000/api/v1/todo/: 404: No Found: API"}
+{"asctime": "2025-08-20 12:18:02,737", "levelname": "INFO", "name": "app", "message": "Test Logging"}
+{"asctime": "2025-08-20 12:18:02,738", "levelname": "WARNING", "name": "app", "message": "Validation error at http://localhost:8000/api/v1/todo/: 404: A"}
+{"asctime": "2025-08-20 12:21:41,183", "levelname": "INFO", "name": "app", "message": "Test Logging"}
+{"asctime": "2025-08-20 12:21:41,185", "levelname": "WARNING", "name": "app", "message": "Validation error at http://localhost:8000/api/v1/todo/: 404: Not found"}
+{"asctime": "2025-08-20 12:22:02,867", "levelname": "INFO", "name": "app", "message": "Test Logging"}
+{"asctime": "2025-08-20 12:22:02,868", "levelname": "WARNING", "name": "app", "message": "Validation error at http://localhost:8000/api/v1/todo/: 404: Not found"}
+{"asctime": "2025-08-20 12:22:03,810", "levelname": "INFO", "name": "app", "message": "Test Logging"}
+{"asctime": "2025-08-20 12:22:03,811", "levelname": "WARNING", "name": "app", "message": "Validation error at http://localhost:8000/api/v1/todo/: 404: Not found"}

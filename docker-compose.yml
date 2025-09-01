@@ -1,0 +1,19 @@
+services:
+  app:
+    build: .
+    env_file:
+      - ".env"
+    ports:
+      - "8000:8000"
+    volumes:
+      - .:/src
+    networks:
+      - fastapi-networks
+    restart: unless-stopped 
+    
+volumes:
+  fastapi-volumes:
+
+networks:
+  fastapi-networks:
+    driver: bridge

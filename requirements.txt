@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+pydentic
+pydantic-settings
+fastapi_restful
+typing_inspect
+python-json-logger
