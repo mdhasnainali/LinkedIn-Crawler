@@ -4,7 +4,7 @@ from functools import lru_cache
 
 class Config(BaseSettings):
     # general
-    project_name: str = "Notepad_App"
+    project_name: str = "LinkedIn"
     api_prefix: str = Field(default="/api", alias="API_PREFIX")
     
     # environment
@@ -20,7 +20,7 @@ class Config(BaseSettings):
     @property
     def db_url(self):
         return (
-            f"postgresql+psycopg://"
+            f"postgresql+asyncpg://"
             f"{self.postgres_user}:{self.postgres_password}"
             f"@{self.postgres_host}:{self.postgres_port}/{self.postgres_db}"
         )

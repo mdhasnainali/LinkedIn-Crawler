@@ -6,3 +6,4 @@ class ErrorResponse(BaseModel):
     code: str
     message: str
     details: Optional[Any]
+ 
